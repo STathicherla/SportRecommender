@@ -16,6 +16,16 @@
 		49437A9526B9B1090038D131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49437A9326B9B1090038D131 /* LaunchScreen.storyboard */; };
 		49437AA026B9B1090038D131 /* SportRecommenderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49437A9F26B9B1090038D131 /* SportRecommenderTests.swift */; };
 		49437AAB26B9B1090038D131 /* SportRecommenderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49437AAA26B9B1090038D131 /* SportRecommenderUITests.swift */; };
+		B1FA810726BAF4D40006D3D9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA810626BAF4D40006D3D9 /* SecondViewController.swift */; };
+		B1FA810926BAF5520006D3D9 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA810826BAF5520006D3D9 /* ThirdViewController.swift */; };
+		B1FA810B26BAF5900006D3D9 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA810A26BAF5900006D3D9 /* FourthViewController.swift */; };
+		B1FA810D26BAF6360006D3D9 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA810C26BAF6360006D3D9 /* FifthViewController.swift */; };
+		B1FA810F26BAF6880006D3D9 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA810E26BAF6880006D3D9 /* SixthViewController.swift */; };
+		B1FA811126BAF6E10006D3D9 /* SeventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA811026BAF6E10006D3D9 /* SeventhViewController.swift */; };
+		B1FA811326BAF7140006D3D9 /* EighthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA811226BAF7140006D3D9 /* EighthViewController.swift */; };
+		B1FA811526BAF78C0006D3D9 /* NinthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA811426BAF78C0006D3D9 /* NinthViewController.swift */; };
+		B1FA811726BAF7AF0006D3D9 /* TenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA811626BAF7AF0006D3D9 /* TenthViewController.swift */; };
+		B1FA811926BAF7DE0006D3D9 /* EleventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA811826BAF7DE0006D3D9 /* EleventhViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,16 @@
 		49437AA626B9B1090038D131 /* SportRecommenderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportRecommenderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49437AAA26B9B1090038D131 /* SportRecommenderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportRecommenderUITests.swift; sourceTree = "<group>"; };
 		49437AAC26B9B1090038D131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1FA810626BAF4D40006D3D9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B1FA810826BAF5520006D3D9 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		B1FA810A26BAF5900006D3D9 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		B1FA810C26BAF6360006D3D9 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		B1FA810E26BAF6880006D3D9 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		B1FA811026BAF6E10006D3D9 /* SeventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhViewController.swift; sourceTree = "<group>"; };
+		B1FA811226BAF7140006D3D9 /* EighthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EighthViewController.swift; sourceTree = "<group>"; };
+		B1FA811426BAF78C0006D3D9 /* NinthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NinthViewController.swift; sourceTree = "<group>"; };
+		B1FA811626BAF7AF0006D3D9 /* TenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenthViewController.swift; sourceTree = "<group>"; };
+		B1FA811826BAF7DE0006D3D9 /* EleventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EleventhViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +125,16 @@
 				49437A8726B9B1070038D131 /* SceneDelegate.swift */,
 				49437A8926B9B1070038D131 /* ViewController.swift */,
 				49437A8B26B9B1070038D131 /* Main.storyboard */,
+				B1FA811826BAF7DE0006D3D9 /* EleventhViewController.swift */,
+				B1FA811626BAF7AF0006D3D9 /* TenthViewController.swift */,
+				B1FA811426BAF78C0006D3D9 /* NinthViewController.swift */,
+				B1FA811226BAF7140006D3D9 /* EighthViewController.swift */,
+				B1FA811026BAF6E10006D3D9 /* SeventhViewController.swift */,
+				B1FA810E26BAF6880006D3D9 /* SixthViewController.swift */,
+				B1FA810C26BAF6360006D3D9 /* FifthViewController.swift */,
+				B1FA810A26BAF5900006D3D9 /* FourthViewController.swift */,
+				B1FA810826BAF5520006D3D9 /* ThirdViewController.swift */,
+				B1FA810626BAF4D40006D3D9 /* SecondViewController.swift */,
 				49437A9126B9B1090038D131 /* Assets.xcassets */,
 				49437A9326B9B1090038D131 /* LaunchScreen.storyboard */,
 				49437A9626B9B1090038D131 /* Info.plist */,
@@ -262,9 +292,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				49437A8A26B9B1070038D131 /* ViewController.swift in Sources */,
+				B1FA811326BAF7140006D3D9 /* EighthViewController.swift in Sources */,
+				B1FA810F26BAF6880006D3D9 /* SixthViewController.swift in Sources */,
 				49437A8626B9B1070038D131 /* AppDelegate.swift in Sources */,
+				B1FA811526BAF78C0006D3D9 /* NinthViewController.swift in Sources */,
 				49437A9026B9B1070038D131 /* SportRecommender.xcdatamodeld in Sources */,
+				B1FA811126BAF6E10006D3D9 /* SeventhViewController.swift in Sources */,
+				B1FA810B26BAF5900006D3D9 /* FourthViewController.swift in Sources */,
+				B1FA810D26BAF6360006D3D9 /* FifthViewController.swift in Sources */,
+				B1FA810726BAF4D40006D3D9 /* SecondViewController.swift in Sources */,
+				B1FA810926BAF5520006D3D9 /* ThirdViewController.swift in Sources */,
+				B1FA811726BAF7AF0006D3D9 /* TenthViewController.swift in Sources */,
 				49437A8826B9B1070038D131 /* SceneDelegate.swift in Sources */,
+				B1FA811926BAF7DE0006D3D9 /* EleventhViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

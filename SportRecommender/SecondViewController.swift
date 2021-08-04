@@ -1,17 +1,18 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  SportRecommender
 //
-//  Created by Sravya Tathicherla on 8/3/21.
+//  Created by Sanjana Ram on 8/4/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
+
     var background = UIImage(named: "background")
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = UIColor(patternImage : background!)
     }
-}
 
+}

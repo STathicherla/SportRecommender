@@ -138,6 +138,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Zrh-jh-Ejb">
+                                <rect key="frame" x="74" y="296" width="294" height="170"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Wrestling is a combat sport involving grappling-type techniques. A wrestling bout is a physical competition, between two (occasionally more) competitors or sparring partners, who attempt to gain and maintain a superior position. Wrestling is only offered in highschool and clubs. It is divided by weight class.</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="us6-NO-xtd"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -163,6 +172,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="cbo-4r-W6d">
+                                <rect key="frame" x="91" y="339" width="240" height="317"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <mutableString key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. If you would like to learn more please</mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="e2I-Ud-dgU"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -188,6 +206,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="it9-hs-Irp">
+                                <rect key="frame" x="87" y="328" width="240" height="200"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Track is a simple but very competitive sport. In track, you could either be a sprinter, middle distance, or long distance runner. This sport requires all components of fitness, however it mainly requires physical endurance. Track also consists of field events that display your strength and power like shot put and long jump.If you would like to learn more please</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ubV-uT-XrC"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -397,6 +424,16 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="djN-iU-BzX">
+                                <rect key="frame" x="95" y="299" width="240" height="200"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Ice hockey is a contact team sport played on ice, usually in an indoor or outdoor rink, in which two teams of skaters use their sticks to shoot a rubber puck into their opponent's net to score goals. A game normally has 6 on 6. It is a high contact sport and is considered one of the most expensive. Click this like for more.
+</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="dag-uH-x8C"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -422,6 +459,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="pKN-Qn-dOg">
+                                <rect key="frame" x="117" y="309" width="240" height="350.5"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <mutableString key="text">Baseball is a very popular sport in America. Softball is a variant of baseball which is played by the majority of women. There are two teams made of 9 players who alternate throughout the game of being defense and offense. The objective of the game is for the pitcher to throw the ball and a person of the other team batting the ball into play and running around the bases touching each one before someone catches their ball. Baseball and softball are similar but they also have some important differences within the game such as the size of the bats/balls, pitching styles, and field of play. If you would like to learn more click here </mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6rX-QJ-ikG"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -447,6 +493,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="RKJ-4n-yQs">
+                                <rect key="frame" x="93" y="299" width="240" height="267"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Soccer, which is also known as football in Great Britain and other parts of the world is a sport that requires you to stay on your feet. The objective of the sport is to keep the ball within your grasp with the help of your teammates to score a point by kicking the ball into your opponent's goal. A team in soccer usually sums up to 10 outfield players and one goalkeeper. Although this sport may seem simple it requires speed, agility, and endurance if you want to learn more please</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="8zZ-NF-xXz"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -472,6 +527,15 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="A2R-nE-lIb">
+                                <rect key="frame" x="102" y="318" width="240" height="333.5"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <mutableString key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. If you would like to learn more please</mutableString>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hJ9-g0-jJY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>

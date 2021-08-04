@@ -16,26 +16,34 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sport Recommender" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NHF-ju-5cA">
-                                <rect key="frame" x="128" y="112" width="158" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝙎𝙥𝙤𝙧𝙩 𝙍𝙚𝙘𝙤𝙢𝙢𝙚𝙣𝙙𝙚𝙧" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NHF-ju-5cA">
+                                <rect key="frame" x="79" y="84" width="257" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w4a-rA-gPX">
-                                <rect key="frame" x="172" y="344" width="71" height="30"/>
+                                <rect key="frame" x="135" y="348" width="144" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click Here"/>
+                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                                <state key="normal" title="𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="30"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                                 <connections>
                                     <segue destination="SsG-7s-sQD" kind="show" id="gT0-OU-oiE"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Click the Button to get started" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xHW-St-psT">
-                                <rect key="frame" x="53" y="194" width="307" height="29"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘉𝘶𝘵𝘵𝘰𝘯 𝘵𝘰 𝘨𝘦𝘵 𝘴𝘵𝘢𝘳𝘵𝘦𝘥" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xHW-St-psT">
+                                <rect key="frame" x="89" y="189" width="237" height="24"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
@@ -176,7 +184,7 @@
                                 <rect key="frame" x="91" y="339" width="240" height="317"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. If you would like to learn more please</mutableString>
+                                <string key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. If you would like to learn more please</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -463,7 +471,7 @@
                                 <rect key="frame" x="117" y="309" width="240" height="350.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">Baseball is a very popular sport in America. Softball is a variant of baseball which is played by the majority of women. There are two teams made of 9 players who alternate throughout the game of being defense and offense. The objective of the game is for the pitcher to throw the ball and a person of the other team batting the ball into play and running around the bases touching each one before someone catches their ball. Baseball and softball are similar but they also have some important differences within the game such as the size of the bats/balls, pitching styles, and field of play. If you would like to learn more click here </mutableString>
+                                <string key="text">Baseball is a very popular sport in America. Softball is a variant of baseball which is played by the majority of women. There are two teams made of 9 players who alternate throughout the game of being defense and offense. The objective of the game is for the pitcher to throw the ball and a person of the other team batting the ball into play and running around the bases touching each one before someone catches their ball. Baseball and softball are similar but they also have some important differences within the game such as the size of the bats/balls, pitching styles, and field of play. If you would like to learn more click here </string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -531,7 +539,7 @@
                                 <rect key="frame" x="102" y="318" width="240" height="333.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. If you would like to learn more please</mutableString>
+                                <string key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. If you would like to learn more please</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -595,25 +603,41 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Individual or team?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oaQ-5B-LbI">
-                                <rect key="frame" x="135" y="113" width="144" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝙄𝙣𝙙𝙞𝙫𝙞𝙙𝙪𝙖𝙡 𝙤𝙧 𝙩𝙚𝙖𝙢?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oaQ-5B-LbI">
+                                <rect key="frame" x="92" y="79" width="245" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XQV-k4-3Js">
-                                <rect key="frame" x="174" y="218" width="66" height="30"/>
+                                <rect key="frame" x="150" y="218" width="128" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Individual"/>
+                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                                <state key="normal" title="𝗜𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="30"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                                 <connections>
                                     <segue destination="zBw-8v-ted" kind="show" id="BRw-qD-Jd9"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KSY-7M-TWq">
-                                <rect key="frame" x="188" y="318" width="38" height="30"/>
+                                <rect key="frame" x="150" y="313" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Team"/>
+                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                                <state key="normal" title="𝗧𝗲𝗮𝗺">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="30"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                                 <connections>
                                     <segue destination="F5A-wc-16T" kind="show" id="7DZ-mt-tjd"/>
                                 </connections>
@@ -626,7 +650,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="e9a-4J-BOq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="926" y="76"/>
+            <point key="canvasLocation" x="921.73913043478262" y="56.919642857142854"/>
         </scene>
         <!--Third View Controller-->
         <scene sceneID="QDZ-kI-zX6">
@@ -840,6 +864,9 @@
         </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray6Color">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

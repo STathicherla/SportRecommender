@@ -120,27 +120,29 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Gymnastics" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="94U-3G-S2R">
-                                <rect key="frame" x="162" y="88" width="90" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑮𝒚𝒎𝒏𝒂𝒔𝒕𝒊𝒄𝒔" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="94U-3G-S2R">
+                                <rect key="frame" x="127" y="108" width="160" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="X6l-er-bbQ">
-                                <rect key="frame" x="49" y="226" width="294" height="170"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="X6l-er-bbQ">
+                                <rect key="frame" x="60" y="271" width="294" height="247"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">Gymnastics is a very popular sport, and for good reason. The skills learned as a gymnast can be very useful in everyday life. However, there is a lot of strength training involved, and you’re probably going to feel sore after day one. But in the end, you will reap the rewards, with your newfound agility and strength.
 </string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s4R-sT-RXt">
-                                <rect key="frame" x="76" y="413" width="217" height="30"/>
+                                <rect key="frame" x="99" y="564" width="217" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information!"/>
+                                <state key="normal" title="Click here for more information!">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Gym_URL:" destination="jwb-BZ-iQp" eventType="touchUpInside" id="JVC-zc-oRZ"/>
                                 </connections>
@@ -163,26 +165,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Wrestling" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UP4-AW-aWS">
-                                <rect key="frame" x="171" y="185" width="72" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑾𝒓𝒆𝒔𝒕𝒍𝒊𝒏𝒈" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UP4-AW-aWS">
+                                <rect key="frame" x="140" y="102" width="135" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Zrh-jh-Ejb">
-                                <rect key="frame" x="74" y="296" width="294" height="170"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Zrh-jh-Ejb">
+                                <rect key="frame" x="60" y="286" width="294" height="283"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">Wrestling is a combat sport involving grappling-type techniques. A wrestling bout is a physical competition, between two (occasionally more) competitors or sparring partners, who attempt to gain and maintain a superior position. Wrestling is only offered in highschool and clubs. It is divided by weight class.</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oNP-5u-oxr">
-                                <rect key="frame" x="99" y="464" width="217" height="30"/>
+                                <rect key="frame" x="99" y="589" width="217" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information!"/>
+                                <state key="normal" title="Click here for more information!">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Wres_URL:" destination="4Kl-3P-Bx3" eventType="touchUpInside" id="9tA-2p-Oz4"/>
                                 </connections>
@@ -195,7 +199,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nxn-08-27N" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1019" y="2211"/>
+            <point key="canvasLocation" x="-1020.2898550724639" y="2209.8214285714284"/>
         </scene>
         <!--Tennis View Controller-->
         <scene sceneID="Hnq-1d-ezy">
@@ -205,26 +209,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tennis" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JbC-H8-HLK">
-                                <rect key="frame" x="186" y="117" width="50" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑻𝒆𝒏𝒏𝒊𝒔" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JbC-H8-HLK">
+                                <rect key="frame" x="162" y="121" width="91" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="cbo-4r-W6d">
-                                <rect key="frame" x="91" y="177" width="240" height="317"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="cbo-4r-W6d">
+                                <rect key="frame" x="87" y="248" width="240" height="400"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. If you would like to learn more please</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <mutableString key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. </mutableString>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="scC-b4-Lp6">
-                                <rect key="frame" x="101" y="558" width="212" height="30"/>
+                                <rect key="frame" x="101" y="656" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Tenn_URL:" destination="Vgg-5Y-aCc" eventType="touchUpInside" id="gHQ-B1-Vl4"/>
                                 </connections>
@@ -237,7 +243,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="q9c-ZX-XAL" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-759" y="2921"/>
+            <point key="canvasLocation" x="-759.4202898550725" y="2920.9821428571427"/>
         </scene>
         <!--Track View Controller-->
         <scene sceneID="ZSo-ll-K90">
@@ -247,26 +253,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Track" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yg9-HV-XzQ">
-                                <rect key="frame" x="186" y="99" width="42" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑻𝒓𝒂𝒄𝒌" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yg9-HV-XzQ">
+                                <rect key="frame" x="167" y="102" width="80" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="it9-hs-Irp">
-                                <rect key="frame" x="87" y="146" width="240" height="200"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="it9-hs-Irp">
+                                <rect key="frame" x="87" y="216" width="240" height="315"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Track is a simple but very competitive sport. In track, you could either be a sprinter, middle distance, or long distance runner. This sport requires all components of fitness, however it mainly requires physical endurance. Track also consists of field events that display your strength and power like shot put and long jump.If you would like to learn more please</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <string key="text">Track is a simple but very competitive sport. In track, you could either be a sprinter, middle distance, or long distance runner. This sport requires all components of fitness, however it mainly requires physical endurance. Track also consists of field events that display your strength and power like shot put and long jump.</string>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ys1-ui-Sdj">
-                                <rect key="frame" x="99" y="459" width="212" height="30"/>
+                                <rect key="frame" x="101" y="572" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="track_URL:" destination="TA6-ek-avr" eventType="touchUpInside" id="Xoc-K0-8hG"/>
                                 </connections>
@@ -279,7 +287,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Fr1-RH-KCr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="130" y="2926"/>
+            <point key="canvasLocation" x="128.98550724637681" y="2925.6696428571427"/>
         </scene>
         <!--Eleventh View Controller-->
         <scene sceneID="eqt-dQ-Td1">
@@ -354,26 +362,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Swimming" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q6S-FN-Dlm">
-                                <rect key="frame" x="168" y="94" width="79" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑺𝒘𝒊𝒎𝒎𝒊𝒏𝒈" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q6S-FN-Dlm">
+                                <rect key="frame" x="135" y="104" width="145" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="P1G-aN-sZL">
-                                <rect key="frame" x="87" y="207" width="240" height="128"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="P1G-aN-sZL">
+                                <rect key="frame" x="87" y="207" width="240" height="310"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">Swimming is a relatively simple sport in terms of rules, but it requires a lot of stamina. In the water you have to work a lot harder to move forward, especially when you start changing strokes. However, as you progress, it becomes more and more fun, and is overall very rewarding.</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="shl-R7-7J6">
-                                <rect key="frame" x="101" y="406" width="212" height="30"/>
+                                <rect key="frame" x="101" y="542" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Swim_URL:" destination="aZO-kG-qjT" eventType="touchUpInside" id="Mej-ad-uBO"/>
                                 </connections>
@@ -386,7 +396,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fB5-Id-3M3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="468" y="2210"/>
+            <point key="canvasLocation" x="466.66666666666669" y="2209.8214285714284"/>
         </scene>
         <!--Tenth View Controller-->
         <scene sceneID="kWL-Fg-i3V">
@@ -453,26 +463,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Football" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yup-Jt-iJq">
-                                <rect key="frame" x="177" y="96" width="61" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑭𝒐𝒐𝒕𝒃𝒂𝒍𝒍" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yup-Jt-iJq">
+                                <rect key="frame" x="149" y="115" width="117" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="XoU-Kd-Ra7">
-                                <rect key="frame" x="87" y="208" width="241" height="190"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="XoU-Kd-Ra7">
+                                <rect key="frame" x="87" y="226" width="241" height="372"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">In America, football is probably the most popular sport. Its players are known for their strength, as well as their ability to take a hit. It is a difficult sport to master, with its many rules and high chance of injury. Even so, it is a great sport to play, for fun or for competition, as you become both physically and mentally stronger.</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KlG-Im-QfD">
-                                <rect key="frame" x="94" y="406" width="212" height="30"/>
+                                <rect key="frame" x="101" y="634" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Foot_URL:" destination="YsV-VH-poW" eventType="touchUpInside" id="o1x-H6-pR5"/>
                                 </connections>
@@ -495,30 +507,32 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Basketball" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yw7-iV-gEG">
-                                <rect key="frame" x="168" y="83" width="79" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑩𝒂𝒔𝒌𝒆𝒕𝒃𝒂𝒍𝒍" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yw7-iV-gEG">
+                                <rect key="frame" x="132" y="117" width="150" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="CFV-nO-3rW">
-                                <rect key="frame" x="87" y="188" width="240" height="176"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Basketball is a popular sport, one which almost everyone in America knows how to play. However, to get good at it, you’ve got to put in a lot of time, working on your agility and your aim (and height). There are plenty of benefits though, like increased leg strength, and teamwork skills.</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9MK-9G-5HC">
-                                <rect key="frame" x="101" y="382" width="212" height="30"/>
+                                <rect key="frame" x="101" y="528" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Basket_URL:" destination="oXl-tp-hJx" eventType="touchUpInside" id="UFe-ZJ-tgZ"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="CFV-nO-3rW">
+                                <rect key="frame" x="87" y="212" width="240" height="246"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Basketball is a popular sport, one which almost everyone in America knows how to play. However, to get good at it, you’ve got to put in a lot of time, working on your agility and your aim (and height). There are plenty of benefits though, like increased leg strength, and teamwork skills.</string>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="W92-AL-UCw"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -537,31 +551,35 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hockey" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="beB-Cf-izG">
-                                <rect key="frame" x="186" y="101" width="58" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="beB-Cf-izG">
+                                <rect key="frame" x="154" y="126" width="106" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <string key="text">𝑯𝒐𝒄𝒌𝒆𝒚
+</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="djN-iU-BzX">
-                                <rect key="frame" x="95" y="299" width="240" height="200"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Ice hockey is a contact team sport played on ice, usually in an indoor or outdoor rink, in which two teams of skaters use their sticks to shoot a rubber puck into their opponent's net to score goals. A game normally has 6 on 6. It is a high contact sport and is considered one of the most expensive. Click this like for more.
-</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S1S-ee-TJV">
-                                <rect key="frame" x="101" y="529" width="212" height="30"/>
+                                <rect key="frame" x="101" y="606" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Hockey_URL:" destination="RUI-4C-oPn" eventType="touchUpInside" id="vcU-rf-Ses"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="djN-iU-BzX">
+                                <rect key="frame" x="66" y="286" width="282" height="270"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">Ice hockey is a contact team sport played on ice, usually in an indoor or outdoor rink, in which two teams of skaters use their sticks to shoot a rubber puck into their opponent's net to score goals. A game normally has 6 on 6. It is a high contact sport and is considered one of the most expensive. 
+</string>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="dag-uH-x8C"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -570,7 +588,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jGu-d7-KVK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3275" y="1460"/>
+            <point key="canvasLocation" x="3273.913043478261" y="1459.8214285714284"/>
         </scene>
         <!--Baseball View Controller-->
         <scene sceneID="42f-2U-RvC">
@@ -580,30 +598,32 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Baseball/Softball" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HlA-3U-xsJ">
-                                <rect key="frame" x="143" y="95" width="128" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="pKN-Qn-dOg">
-                                <rect key="frame" x="115" y="159" width="240" height="350.5"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="pKN-Qn-dOg">
+                                <rect key="frame" x="87" y="194" width="240" height="484"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">Baseball is a very popular sport in America. Softball is a variant of baseball which is played by the majority of women. There are two teams made of 9 players who alternate throughout the game of being defense and offense. The objective of the game is for the pitcher to throw the ball and a person of the other team batting the ball into play and running around the bases touching each one before someone catches their ball. Baseball and softball are similar but they also have some important differences within the game such as the size of the bats/balls, pitching styles, and field of play. If you would like to learn more click here </string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U6L-OC-rH6">
-                                <rect key="frame" x="101" y="540" width="212" height="30"/>
+                                <rect key="frame" x="101" y="701" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Base_URL:" destination="rVj-5U-9su" eventType="touchUpInside" id="pPW-vw-DF5"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑩𝒂𝒔𝒆𝒃𝒂𝒍𝒍/𝑺𝒐𝒇𝒕𝒃𝒂𝒍𝒍" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HlA-3U-xsJ">
+                                <rect key="frame" x="83" y="120" width="249" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6rX-QJ-ikG"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -612,7 +632,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YUR-ZI-jT5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3935" y="1460"/>
+            <point key="canvasLocation" x="3934.7826086956525" y="1459.8214285714284"/>
         </scene>
         <!--Soccer View Controller-->
         <scene sceneID="M5I-vw-uxo">
@@ -622,26 +642,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Soccer" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pHg-0f-O9e">
-                                <rect key="frame" x="186" y="83" width="54" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑺𝒐𝒄𝒄𝒆𝒓" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pHg-0f-O9e">
+                                <rect key="frame" x="160" y="117" width="94" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="RKJ-4n-yQs">
-                                <rect key="frame" x="93" y="132" width="277" height="252"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="RKJ-4n-yQs">
+                                <rect key="frame" x="69" y="262" width="277" height="365"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Soccer, which is also known as football in Great Britain and other parts of the world is a sport that requires you to stay on your feet. The objective of the sport is to keep the ball within your grasp with the help of your teammates to score a point by kicking the ball into your opponent's goal. A team in soccer usually sums up to 10 outfield players and one goalkeeper. Although this sport may seem simple it requires speed, agility, and endurance if you want to learn more please</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <string key="text">Soccer, which is also known as football in Great Britain and other parts of the world is a sport that requires you to stay on your feet. The objective of the sport is to keep the ball within your grasp with the help of your teammates to score a point by kicking the ball into your opponent's goal. A team in soccer usually sums up to 10 outfield players and one goalkeeper. Although this sport may seem simple it requires speed, agility, and endurance.</string>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4d7-eo-QRg">
-                                <rect key="frame" x="111" y="433" width="212" height="30"/>
+                                <rect key="frame" x="101" y="654" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Soccer_URL:" destination="UrB-Vm-7MJ" eventType="touchUpInside" id="OGi-HG-wmA"/>
                                 </connections>
@@ -664,30 +686,32 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Volleyball" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pum-vI-eLd">
-                                <rect key="frame" x="186" y="69" width="73" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="A2R-nE-lIb">
-                                <rect key="frame" x="102" y="98" width="239" height="336"/>
+                                <rect key="frame" x="101" y="204" width="239" height="448"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <string key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. If you would like to learn more please</string>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <mutableString key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. </mutableString>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="79Q-2N-HMJ">
-                                <rect key="frame" x="115" y="461" width="212" height="30"/>
+                                <rect key="frame" x="101" y="660" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Click here for more information"/>
+                                <state key="normal" title="Click here for more information">
+                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                </state>
                                 <connections>
                                     <action selector="Volley_URL:" destination="giY-1L-0BI" eventType="touchUpInside" id="m2g-jN-2ug"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝑽𝒐𝒍𝒍𝒆𝒚𝒃𝒂𝒍𝒍" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pum-vI-eLd">
+                                <rect key="frame" x="137" y="105" width="140" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hJ9-g0-jJY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -1085,7 +1109,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <string key="text">𝙒𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙧𝙖𝙩𝙝𝙚𝙧 𝙪𝙨𝙚 𝙖𝙣 𝙞𝙣𝙨𝙩𝙧𝙪𝙢𝙚𝙣𝙩 𝙤𝙧 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙗𝙤𝙙𝙮 𝙩𝙤 𝙥𝙧𝙤𝙥𝙚𝙡 𝙖𝙣 𝙤𝙗𝙟𝙚𝙘𝙩 𝙛𝙤𝙧𝙬𝙖𝙧𝙙</string>
-                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -1122,6 +1146,9 @@
         </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemGray6Color">
             <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

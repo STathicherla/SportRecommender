@@ -733,7 +733,7 @@
                                 <rect key="frame" x="147" y="351" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
-                                <state key="normal" title=" 𝗘𝘂𝗿𝗱𝗮𝗻𝗰𝗲">
+                                <state key="normal" title="𝗘𝗻𝗱𝘂𝗿𝗮𝗻𝗰𝗲">
                                     <color key="titleColor" systemColor="labelColor"/>
                                 </state>
                                 <userDefinedRuntimeAttributes>

@@ -141,7 +141,7 @@
                                 <rect key="frame" x="99" y="564" width="217" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information!">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Gym_URL:" destination="jwb-BZ-iQp" eventType="touchUpInside" id="JVC-zc-oRZ"/>
@@ -149,7 +149,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="wha-rF-LWq"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="hmp-UD-J7v"/>
                 </viewController>
@@ -185,7 +185,7 @@
                                 <rect key="frame" x="99" y="589" width="217" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information!">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Wres_URL:" destination="4Kl-3P-Bx3" eventType="touchUpInside" id="9tA-2p-Oz4"/>
@@ -193,7 +193,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="us6-NO-xtd"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="eRO-Cw-Ush"/>
                 </viewController>
@@ -229,7 +229,7 @@
                                 <rect key="frame" x="101" y="656" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Tenn_URL:" destination="Vgg-5Y-aCc" eventType="touchUpInside" id="gHQ-B1-Vl4"/>
@@ -237,7 +237,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="e2I-Ud-dgU"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="Nha-hs-FV1"/>
                 </viewController>
@@ -273,7 +273,7 @@
                                 <rect key="frame" x="101" y="572" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="track_URL:" destination="TA6-ek-avr" eventType="touchUpInside" id="Xoc-K0-8hG"/>
@@ -281,7 +281,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ubV-uT-XrC"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="Gqv-W1-x8D"/>
                 </viewController>
@@ -382,7 +382,7 @@
                                 <rect key="frame" x="101" y="542" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Swim_URL:" destination="aZO-kG-qjT" eventType="touchUpInside" id="Mej-ad-uBO"/>
@@ -390,7 +390,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="jPg-Tm-0bk"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="oKv-be-Q1F"/>
                 </viewController>
@@ -483,7 +483,7 @@
                                 <rect key="frame" x="101" y="634" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Foot_URL:" destination="YsV-VH-poW" eventType="touchUpInside" id="o1x-H6-pR5"/>
@@ -491,7 +491,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="5hq-0P-bYx"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="0dt-N5-ekM"/>
                 </viewController>
@@ -518,7 +518,7 @@
                                 <rect key="frame" x="101" y="528" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Basket_URL:" destination="oXl-tp-hJx" eventType="touchUpInside" id="UFe-ZJ-tgZ"/>
@@ -535,7 +535,7 @@
                             </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="W92-AL-UCw"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="DDT-eL-dT0"/>
                 </viewController>
@@ -564,7 +564,7 @@
                                 <rect key="frame" x="101" y="606" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Hockey_URL:" destination="RUI-4C-oPn" eventType="touchUpInside" id="vcU-rf-Ses"/>
@@ -582,7 +582,7 @@
                             </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="dag-uH-x8C"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="TOX-gg-eDp"/>
                 </viewController>
@@ -611,7 +611,7 @@
                                 <rect key="frame" x="101" y="701" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Base_URL:" destination="rVj-5U-9su" eventType="touchUpInside" id="pPW-vw-DF5"/>
@@ -626,7 +626,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6rX-QJ-ikG"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="qdp-pb-kQx"/>
                 </viewController>
@@ -662,7 +662,7 @@
                                 <rect key="frame" x="101" y="654" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Soccer_URL:" destination="UrB-Vm-7MJ" eventType="touchUpInside" id="OGi-HG-wmA"/>
@@ -670,7 +670,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="8zZ-NF-xXz"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="ycA-xZ-1X4"/>
                 </viewController>
@@ -699,7 +699,7 @@
                                 <rect key="frame" x="101" y="660" width="212" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click here for more information">
-                                    <color key="titleColor" systemColor="systemGray2Color"/>
+                                    <color key="titleColor" systemColor="systemGray6Color"/>
                                 </state>
                                 <connections>
                                     <action selector="Volley_URL:" destination="giY-1L-0BI" eventType="touchUpInside" id="m2g-jN-2ug"/>
@@ -714,7 +714,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hJ9-g0-jJY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.60392156862745094" blue="0.5490196078431373" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="WgH-RM-AOT"/>
                 </viewController>
@@ -1109,7 +1109,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">𝙒𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙧𝙖𝙩𝙝𝙚𝙧 𝙪𝙨𝙚 𝙖𝙣 𝙞𝙣𝙨𝙩𝙧𝙪𝙢𝙚𝙣𝙩 𝙤𝙧 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙗𝙤𝙙𝙮 𝙩𝙤 𝙥𝙧𝙤𝙥𝙚𝙡 𝙖𝙣 𝙤𝙗𝙟𝙚𝙘𝙩 𝙛𝙤𝙧𝙬𝙖𝙧𝙙</string>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -1146,9 +1146,6 @@
         </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
-        <systemColor name="systemGray2Color">
-            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemGray6Color">
             <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

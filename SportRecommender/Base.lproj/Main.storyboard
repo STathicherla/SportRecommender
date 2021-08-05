@@ -130,7 +130,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="X6l-er-bbQ">
                                 <rect key="frame" x="60" y="271" width="294" height="247"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Gymnastics is a very popular sport, and for good reason. The skills learned as a gymnast can be very useful in everyday life. However, there is a lot of strength training involved, and you’re probably going to feel sore after day one. But in the end, you will reap the rewards, with your newfound agility and strength.
 </string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
@@ -175,7 +175,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Zrh-jh-Ejb">
                                 <rect key="frame" x="60" y="286" width="294" height="283"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Wrestling is a combat sport involving grappling-type techniques. A wrestling bout is a physical competition, between two (occasionally more) competitors or sparring partners, who attempt to gain and maintain a superior position. Wrestling is only offered in highschool and clubs. It is divided by weight class.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
@@ -219,7 +219,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="cbo-4r-W6d">
                                 <rect key="frame" x="87" y="248" width="240" height="400"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Tennis is considered to be a private and expensive sport. If you’ve ever played the game ping pong you can look at tennis as an advanced version of it. The objective of the sport is to hit the ball over the net within the lines of the court in a way your opponent is unable to return the ball. Tennis can be played individually or in a match of doubles which is two players on each side of the court instead of one. It’s a very fun and competitive sport but it requires all the components of fitness which is also beneficial to you as you will be all round physically fit. </string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
@@ -263,7 +263,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="it9-hs-Irp">
                                 <rect key="frame" x="87" y="216" width="240" height="315"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Track is a simple but very competitive sport. In track, you could either be a sprinter, middle distance, or long distance runner. This sport requires all components of fitness, however it mainly requires physical endurance. Track also consists of field events that display your strength and power like shot put and long jump.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
@@ -323,7 +323,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="𝙒𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙗𝙚 𝙤𝙠 𝙩𝙤 𝙗𝙪𝙮 𝙢𝙤𝙧𝙚 𝙚𝙦𝙪𝙞𝙥𝙢𝙚𝙣𝙩?" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="g4k-rL-lmz">
                                 <rect key="frame" x="64" y="55" width="286" height="95"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -372,7 +372,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="P1G-aN-sZL">
                                 <rect key="frame" x="87" y="207" width="240" height="310"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Swimming is a relatively simple sport in terms of rules, but it requires a lot of stamina. In the water you have to work a lot harder to move forward, especially when you start changing strokes. However, as you progress, it becomes more and more fun, and is overall very rewarding.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
@@ -473,7 +473,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="XoU-Kd-Ra7">
                                 <rect key="frame" x="87" y="226" width="241" height="372"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">In America, football is probably the most popular sport. Its players are known for their strength, as well as their ability to take a hit. It is a difficult sport to master, with its many rules and high chance of injury. Even so, it is a great sport to play, for fun or for competition, as you become both physically and mentally stronger.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
@@ -527,7 +527,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="CFV-nO-3rW">
                                 <rect key="frame" x="87" y="212" width="240" height="246"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Basketball is a popular sport, one which almost everyone in America knows how to play. However, to get good at it, you’ve got to put in a lot of time, working on your agility and your aim (and height). There are plenty of benefits though, like increased leg strength, and teamwork skills.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
@@ -573,7 +573,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="djN-iU-BzX">
                                 <rect key="frame" x="66" y="286" width="282" height="270"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Ice hockey is a contact team sport played on ice, usually in an indoor or outdoor rink, in which two teams of skaters use their sticks to shoot a rubber puck into their opponent's net to score goals. A game normally has 6 on 6. It is a high contact sport and is considered one of the most expensive. 
 </string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
@@ -601,7 +601,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="pKN-Qn-dOg">
                                 <rect key="frame" x="87" y="194" width="240" height="484"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Baseball is a very popular sport in America. Softball is a variant of baseball which is played by the majority of women. There are two teams made of 9 players who alternate throughout the game of being defense and offense. The objective of the game is for the pitcher to throw the ball and a person of the other team batting the ball into play and running around the bases touching each one before someone catches their ball. Baseball and softball are similar but they also have some important differences within the game such as the size of the bats/balls, pitching styles, and field of play. If you would like to learn more click here </string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -652,7 +652,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="RKJ-4n-yQs">
                                 <rect key="frame" x="69" y="262" width="277" height="365"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Soccer, which is also known as football in Great Britain and other parts of the world is a sport that requires you to stay on your feet. The objective of the sport is to keep the ball within your grasp with the help of your teammates to score a point by kicking the ball into your opponent's goal. A team in soccer usually sums up to 10 outfield players and one goalkeeper. Although this sport may seem simple it requires speed, agility, and endurance.</string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="19"/>
@@ -689,7 +689,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="A2R-nE-lIb">
                                 <rect key="frame" x="101" y="204" width="239" height="448"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Volleyball is a very popular sport for women in the US but it is also welcomed to men too. In volleyball there are two teams of six players on each side of the net. The objective of the sport is to send the ball to your opponent in a way they cannot return it or prevent it from hitting the ground. There are six positions and many types of different formations teams can take on the court. This sport may look easy but it is more complex than it looks. It requires muscular endurance, power, speed / quickness, agility, flexibility, balance and coordination, and cardiovascular endurance. </string>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
@@ -1107,7 +1107,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="OPL-Tl-DY3">
                                 <rect key="frame" x="36" y="63" width="358" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">𝙒𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙧𝙖𝙩𝙝𝙚𝙧 𝙪𝙨𝙚 𝙖𝙣 𝙞𝙣𝙨𝙩𝙧𝙪𝙢𝙚𝙣𝙩 𝙤𝙧 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙗𝙤𝙙𝙮 𝙩𝙤 𝙥𝙧𝙤𝙥𝙚𝙡 𝙖𝙣 𝙤𝙗𝙟𝙚𝙘𝙩 𝙛𝙤𝙧𝙬𝙖𝙧𝙙</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>

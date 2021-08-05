@@ -935,7 +935,6 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="𝘼𝙧𝙚 𝙮𝙤𝙪 𝙤𝙠𝙖𝙮 𝙬𝙞𝙩𝙝 𝙖 𝙝𝙞𝙜𝙝 𝙘𝙝𝙖𝙣𝙘𝙚 𝙤𝙛 𝙞𝙣𝙟𝙪𝙧𝙮?" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="1wX-hO-H7S">
                                 <rect key="frame" x="64" y="37" width="286" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="systemGray6Color"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>

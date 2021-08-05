@@ -87,7 +87,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P1E-Os-S14">
-                                <rect key="frame" x="144" y="337" width="120" height="47"/>
+                                <rect key="frame" x="144" y="371" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title=" 𝗡𝗼">
@@ -304,22 +304,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1RC-I4-vUO">
-                                <rect key="frame" x="147" y="307" width="120" height="47"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemGray6Color"/>
-                                <state key="normal" title="𝗡𝗼">
-                                    <color key="titleColor" systemColor="labelColor"/>
-                                </state>
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                                        <integer key="value" value="30"/>
-                                    </userDefinedRuntimeAttribute>
-                                </userDefinedRuntimeAttributes>
-                                <connections>
-                                    <segue destination="TA6-ek-avr" kind="show" id="dtG-7D-su3"/>
-                                </connections>
-                            </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="𝙒𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙗𝙚 𝙤𝙠 𝙩𝙤 𝙗𝙪𝙮 𝙢𝙤𝙧𝙚 𝙚𝙦𝙪𝙞𝙥𝙢𝙚𝙣𝙩?" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="g4k-rL-lmz">
                                 <rect key="frame" x="64" y="55" width="286" height="95"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -342,6 +326,22 @@
                                 </userDefinedRuntimeAttributes>
                                 <connections>
                                     <segue destination="Vgg-5Y-aCc" kind="show" id="2HR-BZ-Vmd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1RC-I4-vUO">
+                                <rect key="frame" x="147" y="398" width="120" height="47"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                                <state key="normal" title="𝗡𝗼">
+                                    <color key="titleColor" systemColor="labelColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="30"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="TA6-ek-avr" kind="show" id="dtG-7D-su3"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -430,7 +430,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VPd-l3-RpQ">
-                                <rect key="frame" x="147" y="318" width="120" height="47"/>
+                                <rect key="frame" x="147" y="398" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title=" 𝗡𝗼">
@@ -754,7 +754,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xGG-Dc-YUs">
-                                <rect key="frame" x="147" y="351" width="120" height="47"/>
+                                <rect key="frame" x="147" y="398" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title="𝗘𝗻𝗱𝘂𝗿𝗮𝗻𝗰𝗲">
@@ -814,7 +814,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KSY-7M-TWq">
-                                <rect key="frame" x="150" y="313" width="120" height="47"/>
+                                <rect key="frame" x="154" y="398" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title="𝗧𝗲𝗮𝗺">
@@ -848,7 +848,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BD5-Ul-zHK">
-                                <rect key="frame" x="159" y="269" width="120" height="47"/>
+                                <rect key="frame" x="159" y="368" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title="𝗡𝗼">
@@ -863,15 +863,8 @@
                                     <segue destination="ajb-t1-DYr" kind="show" id="UJ4-uz-iAt"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝘿𝙤 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙜𝙤𝙤𝙙 𝙩𝙝𝙧𝙤𝙬𝙞𝙣𝙜 𝙖𝙞𝙢?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vfy-ja-XrJ">
-                                <rect key="frame" x="31" y="57" width="352" height="32"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
-                                <color key="textColor" systemColor="systemGray6Color"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ilE-s4-d4l">
-                                <rect key="frame" x="159" y="171" width="120" height="47"/>
+                                <rect key="frame" x="159" y="224" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title="𝗬𝗲𝘀">
@@ -886,6 +879,13 @@
                                     <segue destination="3TU-XI-dDb" kind="show" id="MQr-0j-rxj"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="𝘿𝙤 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙜𝙤𝙤𝙙 𝙩𝙝𝙧𝙤𝙬𝙞𝙣𝙜 𝙖𝙞𝙢?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vfy-ja-XrJ">
+                                <rect key="frame" x="20" y="76" width="352" height="32"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <color key="textColor" systemColor="systemGray6Color"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xDU-jz-rTT"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -1055,7 +1055,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NyQ-5y-cYa">
-                                <rect key="frame" x="147" y="305" width="120" height="47"/>
+                                <rect key="frame" x="151" y="339" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title="𝗝𝘂𝗺𝗽𝗶𝗻𝗴">
@@ -1114,7 +1114,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gyU-FG-zpj">
-                                <rect key="frame" x="147" y="341" width="120" height="47"/>
+                                <rect key="frame" x="147" y="398" width="120" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray6Color"/>
                                 <state key="normal" title=" 𝗕𝗼𝗱𝘆">
